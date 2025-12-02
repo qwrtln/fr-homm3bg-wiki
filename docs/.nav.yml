@@ -1,0 +1,37 @@
+nav:
+  - Accueil: "index.md"
+  - "*.md"
+  - Dés: "dice.md"
+  - Niveaux de Difficulté: "difficulties.md"
+  - Liste des Symboles: "legend.md"
+  - Conversion Ressources: "trading.md"
+  - Compétences:
+     - "abilities/*.md"
+  - Artefacts:
+     - "artifacts/*.md"
+  - Proclamation des Astrologues:
+     - "astrologers_proclaim/*.md"
+  - Contenu:
+     - "content/*.md"
+  - Evénements:
+     - "events/*.md"
+  - Sites:
+     - "fields/*.md"
+  - Héros:
+     - "heroes/*.md"
+  - Mots clés:
+     - "keywords/*.md"
+  - Scénarios:
+     - "scenarios/*.md"
+  - Sorts:
+     - "spells/*.md"
+  - Caractéristiques:
+     - "statistics/*.md"
+  - Tuiles:
+     - "tiles/*.md"
+  - Villes:
+     - "towns/*.md"
+  - Unités:
+     - "units/*.md"
+  - Machines de guerre:
+     - "war_machines/*.md"
