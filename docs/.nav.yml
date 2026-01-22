@@ -1,0 +1,49 @@
+nav:
+  - Accueil: "index.md"
+  - Caractéristiques:
+     - "statistics/*.md"
+  - Compétences:
+     - "abilities/*.md"
+  - Conversion Ressources: "trading.md"
+  - Artefacts:
+     - "artifacts/*.md"
+  - Contenu:
+     - "content/*.md"
+  - Evénements:
+     - "events/*.md"
+  - Héros:
+     - "heroes/*.md"
+  - Liste des Symboles: "legend.md"
+  - Machines de guerre:
+     - "war_machines/*.md"
+  - Mots clés:
+     - "keywords/*.md"
+     - Alternative Action: "keywords/alternative_action.md"
+     - Combat: "keywords/combat.md"
+     - Dice: "keywords/dice.md"
+     - Dwelling: "keywords/dwelling.md"
+     - Empower: "keywords/empower.md"
+     - Morale: "keywords/morale.md"
+     - Obstacle: "keywords/obstacle.md"
+     - Paralysis: "keywords/paralysis.md"
+     - Permanent Effect: "keywords/permanent_effect.md"
+     - Recruit: "keywords/recruit.md"
+     - Reinforce: "keywords/reinforce.md"
+     - Remove: "keywords/remove.md"
+     - Search: "keywords/search.md"
+     - Summon: "keywords/summon.md"
+  - Niveaux de Difficulté: "difficulties.md"
+  - Proclamation des Astrologues:
+     - "astrologers_proclaim/*.md"
+  - Scénarios:
+     - "scenarios/*.md"
+  - Sites:
+     - "fields/*.md"
+  - Sorts:
+     - "spells/*.md"
+  - Tuiles:
+     - "tiles/*.md"
+  - Villes:
+     - "towns/*.md"
+  - Unités:
+     - "units/*.md"
